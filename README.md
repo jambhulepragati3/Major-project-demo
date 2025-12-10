@@ -1,4 +1,5 @@
 # Major-project-demo
+
 This is my first Git Repository.
 <br>
-Author- Pragati Jambhule
+Author- Pragati (Major-project-demo)
